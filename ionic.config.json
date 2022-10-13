@@ -1,0 +1,8 @@
+{
+  "name": "ei6ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "46b76406"
+}
